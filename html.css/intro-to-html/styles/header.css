@@ -1,0 +1,24 @@
+.search-bar{
+    display: block;
+}
+.header{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div1{
+    background-color: lightblue;
+    width:150px;
+}
+.div2{
+    background-color: lightpink;
+    flex: 1;
+    margin-left: 70px;
+    margin-right: 35px;
+    max-width: 500px;
+}
+.div3{
+  background-color: lightblue;
+  width: 200px;
+}
